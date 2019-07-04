@@ -1,3 +1,3 @@
 # AlienFigther
-# AlienFight is a simples example of the my first spaceship game, Its a sample test in GameMaker Ide
+#Alien Fight is my first spaceship game, It's a sample in GameMaker Ide to understand how it' works
 
